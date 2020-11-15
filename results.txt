@@ -43,5 +43,43 @@ Algorítmo recursivo: False
 Tempo de execução: 170.02seg
 
 ========================================================
+Digite o número do problema que você quer resovler: 3
+
+O problema selecionado tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Tamanho do vetor: 39
+Valor alvo: 630
+Resposta esperada: True
+
+Algorítmo de programação dinâmica: True
+Tempo de execução: 0.01seg
+
+Algorítmo recursivo: True
+Tempo de execução: 7355.91seg
 
 ========================================================
+Digite o número do problema que você quer resovler: 4
+
+O problema selecionado tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+Tamanho do vetor: 29
+Valor alvo: 20000
+Resposta esperada: False
+
+Algorítmo de programação dinâmica: False
+Tempo de execução: 0.25seg
+
+Algorítmo recursivo: False
+Tempo de execução: 223.5seg
+
+========================================================
+Digite o número do problema que você quer resovler: 5
+
+O problema selecionado tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+Tamanho do vetor: 59
+Valor alvo: 20000000
+Resposta esperada: False
+
+Algorítmo de programação dinâmica: False
+Tempo de execução: 398.1seg
