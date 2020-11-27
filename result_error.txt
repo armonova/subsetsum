@@ -1,0 +1,158 @@
+T E S T E   N Ú M E R O :  1
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4]
+Tamanho do vetor: 4
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 0.0seg
+
+===========================
+T E S T E   N Ú M E R O :  2
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8]
+Tamanho do vetor: 8
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 0.0seg
+
+===========================
+T E S T E   N Ú M E R O :  3
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+Tamanho do vetor: 12
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 0.0seg
+
+===========================
+T E S T E   N Ú M E R O :  4
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+Tamanho do vetor: 16
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 0.01seg
+
+===========================
+T E S T E   N Ú M E R O :  5
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Tamanho do vetor: 20
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 0.15seg
+
+===========================
+T E S T E   N Ú M E R O :  6
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+Tamanho do vetor: 24
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 2.43seg
+
+===========================
+T E S T E   N Ú M E R O :  7
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Tamanho do vetor: 28
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 51.47seg
+
+===========================
+T E S T E   N Ú M E R O :  8
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+Tamanho do vetor: 32
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 795.95seg
+
+===========================
+T E S T E   N Ú M E R O :  9
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+Tamanho do vetor: 36
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: 10733.38seg
+
+===========================
+T E S T E   N Ú M E R O :  10
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Tamanho do vetor: 40
+Valor alvo: 1000
+Resultado esperado: False
+
+Algorítmo de programação DINÂMICA
+Resultado: False
+Tempo de execução: 0.01seg
+
+Algorítmo RECURSIVO
+Resultado: False
+Tempo de execução: + que 17 horas

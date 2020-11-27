@@ -1,0 +1,160 @@
+T E S T E   N Ú M E R O :  1
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4]
+Tamanho do vetor: 4
+Valor alvo: 6
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.0seg
+
+===========================
+T E S T E   N Ú M E R O :  2
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8]
+Tamanho do vetor: 8
+Valor alvo: 20
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.0seg
+
+===========================
+T E S T E   N Ú M E R O :  3
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+Tamanho do vetor: 12
+Valor alvo: 42
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.0seg
+
+===========================
+T E S T E   N Ú M E R O :  4
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+Tamanho do vetor: 16
+Valor alvo: 72
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.01seg
+
+===========================
+T E S T E   N Ú M E R O :  5
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+Tamanho do vetor: 20
+Valor alvo: 110
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.03seg
+
+===========================
+T E S T E   N Ú M E R O :  6
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+Tamanho do vetor: 24
+Valor alvo: 156
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.05seg
+
+===========================
+T E S T E   N Ú M E R O :  7
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+Tamanho do vetor: 28
+Valor alvo: 210
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 0.22seg
+
+===========================
+T E S T E   N Ú M E R O :  8
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+Tamanho do vetor: 32
+Valor alvo: 272
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 1.2seg
+
+===========================
+T E S T E   N Ú M E R O :  9
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+Tamanho do vetor: 36
+Valor alvo: 342
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 9.58seg
+
+===========================
+T E S T E   N Ú M E R O :  10
+O problema tem as seguintes caracterísicticas:
+Vetor de pesos: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+Tamanho do vetor: 40
+Valor alvo: 420
+Resultado esperado: True
+
+Algorítmo de programação DINÂMICA
+Resultado: True
+Tempo de execução: 0.0seg
+
+Algorítmo RECURSIVO
+Resultado: True
+Tempo de execução: 83.17seg
+
+===========================
